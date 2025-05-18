@@ -58,13 +58,14 @@ This is a console-based C++ application simulating a **Cafe Billing System**. It
 1. Clone the repository:
 
    git clone https://github.com/yourusername/youth-cafe-billing.git
+   
    cd youth-cafe-billing
   
-2. Compile the program:
+3. Compile the program:
    
    g++ cafe.cpp -o cafe
   
-3. Run the program:
+4. Run the program:
 
    ./cafe
 
